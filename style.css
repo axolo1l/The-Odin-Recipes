@@ -1,0 +1,31 @@
+body {
+    background-color: #05182E;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 32px;
+    
+}
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.abc {
+    text-align: center;
+}
+.button {
+    font-size: 32px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+.img {
+    display: block;
+    margin: 0 auto;
+    height: 1920px;
+    width: 1080px;
+}
+
